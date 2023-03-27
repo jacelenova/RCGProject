@@ -1,0 +1,7 @@
+// .dockerignore
+node_modules
+build
+npm-debug.log
+.git
+*.md
+.gitignore
