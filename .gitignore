@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+node_modules/
+**/.DS_Store
+**/.env
+**/.terraform/**
+**/terraform.*
+**/tfplan*
+**/*.mp4
+**/.eslintcache
+**/.backup
